@@ -1,6 +1,6 @@
 # 💬 Chat App (Realtime)
 
-🚀 Live Demo: https://chat-appcom.netlify.app/
+🚀 Live Demo: [https://chat-appcom.netlify.app/](https://chat-app-bice-gamma.vercel.app/?#)
 
 A real-time chat application built using **Node.js, Socket.IO, HTML, CSS, and JavaScript**.  
 Users can join the chat and send messages instantly.
